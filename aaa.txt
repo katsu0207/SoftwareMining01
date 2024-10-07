@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 AAA
 BBB
->>>>>>> d0dfc598499213e37a3a90cf7f0a9d6aa68291b5
